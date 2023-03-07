@@ -1,0 +1,14 @@
+table 
+    {border-style: dotted;}
+td:hover {
+     background-color:PaleGreen;
+     color:PaleVioletRed;
+}
+tr, th {
+     background-color:RoyalBlue;
+     color:cornsilk;
+}
+tr, td {
+     background-color:yellow;
+     color:black;
+}
